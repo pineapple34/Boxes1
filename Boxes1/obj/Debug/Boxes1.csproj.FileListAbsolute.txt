@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\bin\Debug\Boxes1.exe.config
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\bin\Debug\Boxes1.exe
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\bin\Debug\Boxes1.pdb
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1_MarkupCompile.cache
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1_MarkupCompile.lref
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1.g.resources
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1.Properties.Resources.resources
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1.exe
+C:\Users\Asus\Desktop\repo\.WPF\Boxes1\Boxes1\obj\Debug\Boxes1.pdb
